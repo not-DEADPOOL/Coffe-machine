@@ -1,0 +1,6 @@
+C:\Users\apilati\source\repos\oop_3\oop_3\bin\Debug\oop_3.exe.config
+C:\Users\apilati\source\repos\oop_3\oop_3\bin\Debug\oop_3.exe
+C:\Users\apilati\source\repos\oop_3\oop_3\bin\Debug\oop_3.pdb
+C:\Users\apilati\source\repos\oop_3\oop_3\obj\Debug\oop_3.csprojAssemblyReference.cache
+C:\Users\apilati\source\repos\oop_3\oop_3\obj\Debug\oop_3.exe
+C:\Users\apilati\source\repos\oop_3\oop_3\obj\Debug\oop_3.pdb
