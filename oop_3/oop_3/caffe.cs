@@ -10,9 +10,9 @@ namespace oop_3
     {
         static void Main(string[] args)
         {
-            int COMANDI = 1;
+            bool continua;
             CameraCaffe caffe = new CameraCaffe();
-            Console.WriteLine("Hai a disposizione 5 comandi. :)");
+
             do
             {
                 Console.Write("inserire comando della macchina del caffè:");
@@ -35,8 +35,9 @@ namespace oop_3
                     Console.Clear();
                 }
 
-                COMANDI++;
-            }while(COMANDI!=5);
+                Console.WriteLine("Vuoi continuare?[s/n]");
+                continua = Console.ReadLine() == "s" ? true : false;
+            }while(continua);
             Console.ReadKey();
         }
     }
